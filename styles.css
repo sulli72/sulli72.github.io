@@ -1,0 +1,45 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Default background */
+}
+
+/* Styling for the navigation menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: #333;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 14px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    background-color: #555; /* Hover or active state */
+}
+
+/* General heading and paragraph styling */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 20px;
+}
+
+p {
+    font-size: 1em;
+    margin: 20px;
+}
