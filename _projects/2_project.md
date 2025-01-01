@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: A Tutorial on Characteristic Boundary Conditions
+description: An introductory note set on the theory and implementation of characteristic boundary conditions for hyperbolic conservation laws
+img: assets/img/one_in_sketch.png
 importance: 2
-category: work
+category: Fun
 giscus_comments: true
 ---
 
