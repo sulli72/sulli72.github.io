@@ -26,3 +26,41 @@ This project focuses on the physical motivation, theoretical background, and num
 <div class="caption">
     Different boundary conditions for the second order wave equation. Left, non-reflecting conditions at both ends. Center, Dirichlet at endpoints. Right, Neumann zero-gradient conditions.
 </div>
+
+\section*{Overview}
+
+Many interesting physical phenomena in nature can be described by the propagation of waves.
+Some of the most prominent examples include the emanation of sound from an instrument, the vibrations of a string, the breaking of waves on the shore, and even the formation of shocks in supersonic flight.
+Each of these processes can be expressed mathematically, through the form of a conservation law that describes how individual waves act to transport and preserve quantities like mass, momentum, or energy.
+
+In the absence of dissipative effects such as friction, conservation laws for wave propagation problems are \textit{hyperbolic} in nature, meaning all information within the system is transmitted in a purely convective manner.
+Intricate systems such as the equations of gas dynamics, may have multiple types of waves present, with each one affecting a very specific combination of variables in the system.
+For example, when an acoustic wave passes through air it induces minute changes in pressure, while leaving the local temperature completely unaltered. 
+
+Using the theory of characteristics, which underpins the broader study of hyperbolic equations, it is possible to derive a form of a given conservation law that reveals the behavior associated with each kind of wave present in a system.
+Furthermore, it can be shown that we can actually manipulate these waves, letting us enforce some desired behavior within the physical problem of interest.
+This has important consequences when considering cases on finite domains, and leads to elegant and robust boundary condition treatment for problems solved \textit{numerically} on discrete meshes.
+
+
+\section*{Characteristic Form of Hyperbolic Equations}
+
+It is paramount to note the subsequent derivation and notation was adopted from \citep{thompson1987time}.
+We start with a generic hyperbolic conservation law of the form
+\begin{equation}
+    \mathbf{u}_t + f(\mathbf{u})_x = 0
+\end{equation}
+where $$\mathbf{u}$$ is a vector and $$f(\mathbf{u})$$ is a flux function.
+We can rewrite this equation in quasi-linear form, i.e,
+\begin{equation}
+    \mathbf{u}_t + A\mathbf{u}_x = 0\\
+    A = \dydx{f(\mathbf{u})}{\mathbf{u}}
+\end{equation}
+Furthermore, since the system is hyperbolic it is diagonlizable with strictly real eigenvalues. This leads to the two related eigenvalue problems of
+\begin{equation}
+    AR = R\Lambda ~~~~~~~~ A^TL = L\Lambda
+\end{equation}
+where $$\Lambda$$, $$R$$, and $$L$$ contain the eigenvalues, right eigenvectors, and left eigenvectors of $$A$$ respectively.
+The left eigenvectors are attained by considering the transpose of $$A$$, given by $$A^T$$.
+Physically, each eigenvalue corresponds to the speed at which a specific type of wave is propagated by the system, such as waves traveling at $$\pm c$$ in the second order wave equation.
+Right eigenvectors describe what combination of the variables in $$\mathbf{u}$$ are propagated by each wave.
+Left eigenvectors describe how much of each variable is included in this combination.
