@@ -5,7 +5,6 @@ description: An introductory note set on the theory and implementation of charac
 img: assets/img/one_in_sketch.png
 importance: 2
 category: Fun
-giscus_comments: true
 ---
 
 This project focuses on the physical motivation, theoretical background, and numerical implementation of characteristic boundary conditions. The noteset can be found in the linked PDF, and the associated code repository can be found at https://github.com/sulli72/CHAR_BCS or in the repositories page.
