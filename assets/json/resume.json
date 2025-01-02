@@ -1,5 +1,5 @@
 {
-  "general": {
+  "basics": {
     "name": "Jack Sullivan",
     "email": "sullivan.1041@osu.edu"
   },
@@ -29,7 +29,7 @@
       "endDate": "2021"
     }
   ],
-  "academic interests": [
+  "interests": [
     {
       "name": "Turbulent flow physics"
     },
