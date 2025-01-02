@@ -7,7 +7,7 @@ importance: 2
 category: Fun
 ---
 
-[PDF of Noteset](assets/pdf/CHARBC_PDF.pdf)
+[PDF of Noteset](../assets/pdf/CHARBC_PDF.pdf)
 
 This project focuses on the physical motivation, theoretical background, and numerical implementation of characteristic boundary conditions. The noteset can be found in the linked PDF, and the associated code repository can be found 
 [here](https://github.com/sulli72/CHAR_BCS) or in the repositories page.

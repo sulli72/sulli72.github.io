@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Curriculum vitae
 nav: true
 nav_order: 5
 cv_pdf: Jack_Sullivan_CV.pdf
-description: Curriculum vitae
+description: 
 toc:
   sidebar: left
 ---
