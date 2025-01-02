@@ -7,16 +7,10 @@ importance: 2
 category: Fun
 ---
 
-This project focuses on the physical motivation, theoretical background, and numerical implementation of characteristic boundary conditions. The noteset can be found in the linked PDF, and the associated code repository can be found at https://github.com/sulli72/CHAR_BCS or in the repositories page.
+[PDF of Noteset](assets/pdf/Wave_Equation_Tutorial___Characteristic_BCs.pdf.pdf).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project focuses on the physical motivation, theoretical background, and numerical implementation of characteristic boundary conditions. The noteset can be found in the linked PDF, and the associated code repository can be found 
+[here](https://github.com/sulli72/CHAR_BCS) or in the repositories page.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
