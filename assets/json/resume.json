@@ -1,9 +1,9 @@
 {
-  "General": {
+  "general": {
     "name": "Jack Sullivan",
     "email": "sullivan.1041@osu.edu"
   },
-  "Work": [
+  "work": [
     {
       "name": "High-Fidelity Computational Multi-Physics Laboratory, The Ohio State University",
       "position": "Graduate Research Associate",
@@ -29,7 +29,7 @@
       "endDate": "2021"
     }
   ],
-  "Academic Interests": [
+  "academic interests": [
     {
       "name": "Turbulent flow physics"
     },
@@ -40,7 +40,7 @@
       "name": "Numerican methods for CFD"
     }
   ],
-  "Other Interests": [
+  "other interests": [
     {
       "name": "Professor John Doe"
     },
