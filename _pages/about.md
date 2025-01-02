@@ -22,4 +22,4 @@ I am a Ph.D. candidate in the Department of Mechanical and Aerospace Engineering
 My current research aims to describe the interactions between shock waves and wall bounded turbulence inside internal passageways such as channels, ducts, and nozzles.
 Other projects include the study of incompressible flow separation and the development of novel modal analysis tools.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.:w
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
