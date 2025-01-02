@@ -49,7 +49,7 @@ We start with a generic hyperbolic conservation law of the form
 \begin{equation}
     \mathbf{u}_t + f(\mathbf{u})_x = 0
 \end{equation}
-where $$\mathbf{u}$$ is a vector and $$f(\mathbf{u})$$ is a flux function.
+where $\mathbf{u}$ is a vector and $f(\mathbf{u})$ is a flux function.
 We can rewrite this equation in quasi-linear form, i.e,
 \begin{equation}
     \mathbf{u}_t + A\mathbf{u}_x = 0\\
@@ -59,8 +59,8 @@ Furthermore, since the system is hyperbolic it is diagonlizable with strictly re
 \begin{equation}
     AR = R\Lambda ~~~~~~~~ A^TL = L\Lambda
 \end{equation}
-where $$\Lambda$$, $$R$$, and $$L$$ contain the eigenvalues, right eigenvectors, and left eigenvectors of $$A$$ respectively.
-The left eigenvectors are attained by considering the transpose of $$A$$, given by $$A^T$$.
-Physically, each eigenvalue corresponds to the speed at which a specific type of wave is propagated by the system, such as waves traveling at $$\pm c$$ in the second order wave equation.
-Right eigenvectors describe what combination of the variables in $$\mathbf{u}$$ are propagated by each wave.
+where $\Lambda$, $R$, and $L$ contain the eigenvalues, right eigenvectors, and left eigenvectors of $A$ respectively.
+The left eigenvectors are attained by considering the transpose of $A$, given by $A^T$.
+Physically, each eigenvalue corresponds to the speed at which a specific type of wave is propagated by the system, such as waves traveling at $\pm c$ in the second order wave equation.
+Right eigenvectors describe what combination of the variables in $\mathbf{u}$ are propagated by each wave.
 Left eigenvectors describe how much of each variable is included in this combination.
