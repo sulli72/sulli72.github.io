@@ -35,7 +35,9 @@
       "keywords": [
         "turbulent flow physics",
         "compressible aerodynamics",
-        "numerical methods for CFD"
+        "numerical methods for CFD",
+        "modal decomposition tools",
+        "time-frequency analyses"
       ]  
     },
     {
