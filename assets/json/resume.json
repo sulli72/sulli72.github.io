@@ -31,21 +31,22 @@
   ],
   "interests": [
     {
-      "name": "Turbulent flow physics"
+      "name": "Academic Interests",
+      "keywords": [
+        "turbulent flow physics",
+        "compressible aerodynamics",
+        "numerical methods for CFD"
+      ]  
     },
     {
-      "name": "Compressible aerodynamics"
-    },
-    {
-      "name": "Numerican methods for CFD"
-    }
-  ],
-  "hobbies": [
-    {
-      "name": "Professor John Doe"
-    },
-    {
-      "name": "Professor John Doe"
+      "name": "Personal Hobbies",
+      "keywords": [
+      "soccer",
+      "squash",
+      "exercise",
+      "history",
+      "chess"
+      ]
     }
   ]
 }
