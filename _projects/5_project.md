@@ -68,7 +68,7 @@ The entirety of the code is controlled by the routine 'DRIVERSCRIPT.m'. Within t
 A HANDFUL OF FIGURES:
 
 Herein I've included several figures that demonstrate the validity of the code. Further figures may be found in the repository
-[README](https://github.com/sulli72/1D_EULER/README).
+[README](https://github.com/sulli72/1D_EULER).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
