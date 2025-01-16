@@ -5,7 +5,7 @@ description: Study of the unsteady mechanisms within a spanwise homogeneous shoc
 img: assets/img/shocktrains/zoom_white_schlieren_vis.png
 importance: 1
 category: Work
-related_publications: true
+related_publications: false
 ---
 
 For more details, see the publications page

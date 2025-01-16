@@ -5,7 +5,7 @@ description: Investigation into mean flow and turbulent physics of a spanwise ho
 img: assets/img/shocktrains/UVEL_SEP1.png
 importance: 1
 category: Work
-related_publications: true
+related_publications: false
 ---
 
 A video overview of the project is presented below. For more technical details, refer to the publications page.
