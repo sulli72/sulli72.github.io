@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: A Tutorial on Finite Difference Shock Capturing Schemes
+description: An introduction to shock capturing methods for the Euler equations
 img: assets/img/WENO6-SHU-V2.png
 importance: 3
 category: Fun
