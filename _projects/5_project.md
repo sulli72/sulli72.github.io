@@ -7,10 +7,11 @@ importance: 3
 category: Fun
 ---
 
+[CODE REPOSITORY](https://github.com/sulli72/1D_EULER)
 
 This project focuses on the implementation of finite difference shock capturing schemes for the 1D Euler equations. 
-The associated repository, containing tutorials on a variety of WENO schemes and the Roe scheme, can be found 
-[here](https://github.com/sulli72/1D_EULER) or in the repositories page.
+The associated repository, containing tutorials on a variety of WENO schemes and the Roe scheme, can be found at the link above
+or in the repositories page.
 
 WHAT THE REPOSITORY CONTAINS: This is a suite of codes for solving the 1D Euler equations. For those unfamiliar, these equations govern the flow of a frictionless gas in one dimension. The key feature of the 1D Euler equations is they allow for shock wave formation owing to their inherent non-linear nature, making them a simple set of equations that still captures some of the key physics that occurs during processes like supersonic flight, atmospheric re-entry, and stellar supernovae. In order to study the behavior of shock waves in a variety of situations, scientists and engineers often turn to numerical solutions of the Euler equations. However, properly simulating shock waves is a difficult task, particularly if one is interested in obtaining physically correct solutions with high orders of accuracy. The critical difficulty lies in obtaining a proper numerical approximation for the flux difference occuring across the shock wave discontinuity, which if not done properly can result in unphsyical solution oscillations (Gibbs phenomena), incorrect shock propagation speeds (convergence to the wrong weak solution), and numerical instability (unbounded growth of solution energy). This repository contains several finite difference based numerical methods that accomplish the task of properly capturing shock waves to various degrees. Several options for the spatial flux differencing scheme, time integration methods, and model problems for testing the numerical schemes are included.
 
