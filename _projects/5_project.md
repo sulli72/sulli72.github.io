@@ -67,10 +67,8 @@ The entirety of the code is controlled by the routine 'DRIVERSCRIPT.m'. Within t
 
 A HANDFUL OF FIGURES:
 
-Herein I've included several figures that demonstrate the validity of the code.
-
-Verification of 6th order accuract for WENO6 scheme - done by comparing a smooth numerical solution to Burgers' equation to an exact solution. Exact solution obtained through Newtons method prior to shock formation. Order of accuracy is computed using the L1-norm of the numerical solution.
-
+Herein I've included several figures that demonstrate the validity of the code. Further figures may be found in the repository
+[README](https://github.com/sulli72/1D_EULER/README).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -81,9 +79,6 @@ Verification of 6th order accuract for WENO6 scheme - done by comparing a smooth
     Solution to the Sod shock tube problem using a WENO5 scheme 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
