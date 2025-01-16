@@ -8,6 +8,6 @@ category: Work
 related_publications: true
 ---
 
-For me details, see the publications page
+A video overview of the project is presented below. For more technical details, refer to the publications page.
 
-Embed youtube video here...
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=owfRT77QUao" frameborder="0" allowfullscreen></iframe>
