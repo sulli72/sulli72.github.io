@@ -35,15 +35,23 @@ ii) WENO6 Characteristic wise reconstruction - Roe flux splitting approach
 
 TIME INTEGRATION SCHEMES
 
-First order explicit Euler method
-Third-order TVD Runge-Kutta method ("SSP-RK3") of Shu and Osher
+i) First order explicit Euler method
+
+ii) Third-order TVD Runge-Kutta method ("SSP-RK3") of Shu and Osher
+
+
 1D TEST PROBLEMS
 
-Sod's shock tube problem
-Shu-Osher entropy wave/shock interaction
-A steady shock wave
-The Lax problem
-The 123 problem
+i) Sod's shock tube problem
+
+ii)Si)hu-Osher entropy wave/shock interaction
+
+iii)A steady shock wave
+
+iv)The Lax problem
+
+v)The 123 problem
+
 SOLUTION VISUALIZATION AND COMPARISION
 
 Built in plotting routines for 1D profiles
