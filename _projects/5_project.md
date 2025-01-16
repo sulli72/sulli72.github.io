@@ -64,7 +64,7 @@ I also want to stress that since the routines were written with education and us
 
 HOW TO INTERACT WITH THE CODE:
 
-The entirety of the code is controlled by the routine 'DRIVERSCRIPT.m'. Within this routine are the options to change the flux scheme, the time integration scheme, the test problem, and the visualization approaches. Comments are contained within this script that actually detail how to accomplish each of these tasks. Furthermore, each subroutine that the code calls contains comments that describe its purpose and document the mathematical steps occurring in each numerical algorithm. References to usefule papers and textbooks are included where appropriate for the user to find more detail when desired. While the published code is written in Matlab, hopefully conversion to a different language can be accomplished in a relatively straightforward manner through the use of some online GPT.
+The entirety of the code is controlled by the routine 'DRIVERSCRIPT.m'. Within this routine are the options to change the flux scheme, the time integration scheme, the test problem, and the visualization approaches. Comments are contained within this script that actually detail how to accomplish each of these tasks. Furthermore, each subroutine that the code calls contains comments that describe its purpose and document the mathematical steps occurring in each numerical algorithm. References to useful papers and textbooks are included where appropriate for the user to find more detail when desired. While the published code is written in Matlab, hopefully conversion to a different language can be accomplished in a relatively straightforward manner through the use of some online GPT.
 
 A HANDFUL OF FIGURES:
 
