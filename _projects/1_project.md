@@ -8,6 +8,15 @@ category: Work
 related_publications: false
 ---
 
-A video overview of the project is presented below. For more technical details, refer to the publications page.
+Wall resolved large eddy simulations of a spanwise homogeneous shock train are conducted, with the aim of quantifying how repeated interactions between the boundary layer and outer shock waves modify local turbulent processes. A description of the uncovered mechanisms is presented in the figure below, and a video overview of the project can be found [on Youtube](https://www.youtube.com/watch?v=owfRT77QUao&t=3s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=owfRT77QUao" frameborder="0" allowfullscreen></iframe>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TURBULENCE_PHENOMENA.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Solution to the Sod shock tube problem using a WENO5 scheme 
+</div>
+
