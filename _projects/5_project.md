@@ -7,7 +7,7 @@ importance: 3
 category: Fun
 ---
 
-[**CODE REPOSITORY**](https://github.com/sulli72/1D_EULER)
+[CODE REPOSITORY LINK](https://github.com/sulli72/1D_EULER)
 
 This project focuses on the implementation of finite difference shock capturing schemes for the 1D Euler equations. 
 The associated repository, containing tutorials on a variety of WENO schemes and the Roe scheme, can be found at the link above
