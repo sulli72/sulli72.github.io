@@ -22,13 +22,13 @@ or in the repositories page.
 - First order Roe scheme
 
 - WENO5 schemes as proposed by Prof. Chi Wang Shu and his collaborators
- - WENO5 Component wise reconstruction scheme
- - WENO5 Characteristic wise reconstruction - Lax-Friedrichs flux splitting approach
- - WENO5 Characteristic wise reconstruction - Roe flux splitting approach
+  - WENO5 Component wise reconstruction scheme
+  - WENO5 Characteristic wise reconstruction - Lax-Friedrichs flux splitting approach
+  - WENO5 Characteristic wise reconstruction - Roe flux splitting approach
 
 - WENO6 schemes proposed by Hu and Adams
- - WENO6 Characteristic wise reconstruction - Lax-Friedrichs flux splitting approach
- - WENO6 Characteristic wise reconstruction - Roe flux splitting approach
+  - WENO6 Characteristic wise reconstruction - Lax-Friedrichs flux splitting approach
+  - WENO6 Characteristic wise reconstruction - Roe flux splitting approach
 
 
 **TIME INTEGRATION SCHEMES**
@@ -57,8 +57,8 @@ or in the repositories page.
 - Ability to view x-t plane to visualze characteristic wave fronts
 
 - Exact solutions (computed on fine meshes w/ high order schemes) for the following problems
- - Sod problem
- - Shu-Osher problem
+  - Sod problem
+  - Shu-Osher problem
 
 **WHAT THE REPOSITORY IS FOR**
 
