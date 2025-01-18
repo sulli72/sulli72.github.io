@@ -106,3 +106,29 @@ Herein I've included several figures that demonstrate the validity of the code. 
 <div class="caption">
     Validation of the central WENO6 scheme using exact solutions to the non-linear Burgers equation
 </div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col-6">
+      2 of 3 (wider)
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col-5">
+      2 of 3 (wider)
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+</div>

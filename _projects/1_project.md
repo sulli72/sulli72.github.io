@@ -8,7 +8,7 @@ category: Work
 related_publications: false
 ---
 
-Wall resolved large eddy simulations of a spanwise homogeneous shock train are conducted, with the aim of quantifying how repeated interactions between the boundary layer and outer shock waves modify local turbulent processes. A description of the uncovered mechanisms is presented in the figure below, and a video overview of the project can be found [on Youtube](https://www.youtube.com/watch?v=owfRT77QUao&t=3s)
+Wall resolved large eddy simulations of a spanwise homogeneous shock train are conducted, with the aim of quantifying how repeated interactions between the boundary layer and outer shock waves modify local turbulent processes. A description of the uncovered mechanisms is presented in the figure below, and a video overview of the project can be found [on Youtube](https://www.youtube.com/watch?v=owfRT77QUao&t=3s).
 
 
 <div class="row">
