@@ -17,6 +17,6 @@ Wall resolved large eddy simulations of a spanwise homogeneous shock train are c
     </div>
 </div>
 <div class="caption">
-    Solution to the Sod shock tube problem using a WENO5 scheme 
+    Schematic depiction of mean flow and turbulence mechanisms found in the spanwise period shock train under investigation.
 </div>
 
