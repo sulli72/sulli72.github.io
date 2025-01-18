@@ -80,7 +80,7 @@ Herein I've included several figures that demonstrate the validity of the code. 
 [README](https://github.com/sulli72/1D_EULER).
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sod_soln.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -90,7 +90,7 @@ Herein I've included several figures that demonstrate the validity of the code. 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shu_soln.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -99,7 +99,7 @@ Herein I've included several figures that demonstrate the validity of the code. 
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/WENO6-Validation.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
