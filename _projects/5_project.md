@@ -89,7 +89,7 @@ Herein I've included several figures that demonstrate the validity of the code. 
 </div>
 
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shu_soln.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
