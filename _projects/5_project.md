@@ -68,11 +68,11 @@ The code is also written in a highly modular fashion, with arguably more subrout
 
 I also want to stress that since the routines were written with education and user-friendliness in mind, they are not optimized for performance. For 1D problems, this really does not matter but if one wants to extend these concepts to effective 2D or 3D solvers, code optimization would be required.
 
-**HOW TO INTERACT WITH THE CODE:**
+**HOW TO INTERACT WITH THE CODE**
 
 The entirety of the code is controlled by the routine 'DRIVERSCRIPT.m'. Within this routine are the options to change the flux scheme, the time integration scheme, the test problem, and the visualization approaches. Comments are contained within this script that actually detail how to accomplish each of these tasks. Furthermore, each subroutine that the code calls contains comments that describe its purpose and document the mathematical steps occurring in each numerical algorithm. References to useful papers and textbooks are included where appropriate for the user to find more detail when desired. While the published code is written in Matlab, hopefully conversion to a different language can be accomplished in a relatively straightforward manner through the use of some online GPT.
 
-**A HANDFUL OF FIGURES:**
+**A HANDFUL OF FIGURES**
 
 Herein I've included several figures that demonstrate the validity of the code. Further figures may be found in the repository
 [README](https://github.com/sulli72/1D_EULER).
