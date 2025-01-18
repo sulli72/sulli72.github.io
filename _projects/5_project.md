@@ -79,7 +79,7 @@ A HANDFUL OF FIGURES:
 Herein I've included several figures that demonstrate the validity of the code. Further figures may be found in the repository
 [README](https://github.com/sulli72/1D_EULER).
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sod_soln.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -98,7 +98,7 @@ Herein I've included several figures that demonstrate the validity of the code. 
     Solution to the Shu-Osher shock/entropy wave problem using a WENO5 scheme 
 </div>
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/WENO6-Validation.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -108,27 +108,3 @@ Herein I've included several figures that demonstrate the validity of the code. 
 </div>
 
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-      1 of 3
-    </div>
-    <div class="col-6">
-      2 of 3 (wider)
-    </div>
-    <div class="col">
-      3 of 3
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      1 of 3
-    </div>
-    <div class="col-5">
-      2 of 3 (wider)
-    </div>
-    <div class="col">
-      3 of 3
-    </div>
-  </div>
-</div>
