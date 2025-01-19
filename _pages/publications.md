@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Manuscripts available on [ResearchGate](https://www.researchgate.net/profile/Jack_Sullivan22).
+.Manuscripts available on [ResearchGate](https://www.researchgate.net/profile/Jack_Sullivan22).
 
 <!-- _pages/publications.md -->
 
