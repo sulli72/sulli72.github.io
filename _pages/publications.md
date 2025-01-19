@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
- Manuscripts can be found on [ResearchGate](https://www.researchgate.net/profile/Jack_Sullivan21).
+ Manuscripts can be found on [ResearchGate](https://www.researchgate.net/profile/Jack_Sullivan22).
 
 {% include bib_search.liquid %}
 
