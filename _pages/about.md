@@ -6,7 +6,7 @@ subtitle: <a href='#'>The Ohio State University</a>
 
 profile:
   align: right
-  image: cropped_heashot.jpg
+  image: headshot_graduation_undergrad.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>E513 Scott Laboratory</p>
