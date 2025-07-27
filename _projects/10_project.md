@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics of a Shock Train in a Low Aspect Ratio Duct 
+title: Duct Aspect Ratio Effects on Shock Train Unsteadiness 
 description: another without an image
 img:
 importance: 3

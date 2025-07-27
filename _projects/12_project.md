@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics of a Shock Train in a Low Aspect Ratio Duct 
+title: Structure of Turbulence in a Normal Shock/Boundary Layer Interaction 
 description: another without an image
 img:
 importance: 3

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamics of a Shock Train in a Low Aspect Ratio Duct 
+title: Unsteadiness in a Transonic Diffuser
 description: another without an image
 img:
 importance: 3
