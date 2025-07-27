@@ -4,7 +4,7 @@ title: Unsteadiness in a Transonic Diffuser
 description: another without an image
 img: assets/img/cfd_images/diffuser.png
 importance: 3
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

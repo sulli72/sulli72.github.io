@@ -3,8 +3,8 @@ layout: page
 title: Dynamics of a Shock Train in a Low Aspect Ratio Duct 
 description: another without an image
 img: assets/img/cfd_images/skinny_AR_overview_PNG.png
-importance:1 
-category: work
+importance: 1 
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

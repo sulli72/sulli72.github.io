@@ -2,9 +2,9 @@
 layout: page
 title: Non-Stationary Analysis of Scramjet Unstart
 description: another without an image
-img:
+img: assets/img/cfd_images/emd_schematic.png
 importance: 3
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

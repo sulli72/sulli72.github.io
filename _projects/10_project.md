@@ -4,7 +4,7 @@ title: Duct Aspect Ratio Effects on Shock Train Unsteadiness
 description: another without an image
 img: assets/img/cfd_images/AR_COMP_FIG.png
 importance: 3
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.
