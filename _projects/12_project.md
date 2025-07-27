@@ -2,7 +2,7 @@
 layout: page
 title: Structure of Turbulence in a Normal Shock/Boundary Layer Interaction 
 description: another without an image
-img:
+img: assets/img/cfd_images/normal_shock.png
 importance: 3
 category: work
 ---
