@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Non-Stationary Analysis of Scramjet Unstart
-description: another without an image
+description: Data driven analysis of the scramjet unstart problem using novel modal decomposition tools
 img: assets/img/cfd_images/emd_schematic.png
 importance: 3
 category: Work

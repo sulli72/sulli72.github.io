@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Structure of Turbulence in a Normal Shock/Boundary Layer Interaction 
-description: another without an image
+description: Fundamental survey of structural eddy changes in the vicinity of an isolated normal shock
 img: assets/img/cfd_images/normal_shock.png
 importance: 3
 category: Work

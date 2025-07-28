@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duct Aspect Ratio Effects on Shock Train Unsteadiness 
-description: another without an image
+description: Investigation on the effect of duct geometry on shock train dynamics
 img: assets/img/cfd_images/AR_COMP_FIG.png
 importance: 3
 category: Work

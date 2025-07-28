@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unsteadiness in a Transonic Diffuser
-description: another without an image
+description: Study on the behavior of a symmetric transonic nozzle with a resident normal shock 
 img: assets/img/cfd_images/diffuser.png
 importance: 3
 category: Work
