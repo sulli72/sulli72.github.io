@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 I am a Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at The Ohio State Univeristy, focusing on high-fidelity simulation of complex turbulent flows. My main research interests include the physics of turbulence, compressible aerodynamics, high-order numerical methods for conservation laws, and advanced data processing techniques.
 
 My current research aims to describe the interactions between shock waves and wall bounded turbulence inside internal passageways such as channels, ducts, and nozzles.
-Other projects include the study of incompressible flow separation and the development of novel modal analysis tools.
+Other projects include the study of flow separation, the structural behavior of wall bounded turbulence, and the development of novel modal analysis tools.
