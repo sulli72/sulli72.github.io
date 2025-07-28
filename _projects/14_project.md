@@ -18,6 +18,9 @@ This code base presents a hybrid finite difference approach to solving Burgers' 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="/assets/img/cfd_images/sensor_evolution.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cfd_images/blowup_sensor_evolution.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     A schematic description of the proposed modal analysis method. Shown are the steps needed to remove the translational invariance associated with the scramjet unstart problem and to subsequently analyze the oscillatory dynamics of the flow.
