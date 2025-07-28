@@ -7,6 +7,10 @@ importance: 3
 category: Work
 ---
 
+This project investigates the structural change to wall bounded turbulence as it passes beneath a single, normal shock wave.
+It is commonly observed that turbulent statistics are altered in the vicinity of shock waves. 
+These variations are inherently due to a change in the near wall dynamics, i.e., the actual turbulent structures themselves must change if the measure turbulent statistics are to change as well.
+However, this connection is rarely discussed in complex wall bounded flows, and it is the purview of this work to illuminate the nature of these structural changes. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
