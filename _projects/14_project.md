@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hybridized Finite Difference Scheme for Burgers' Equation
-description: An code base designed to teach the hybridization of non-dissipative central schemes and shock capturing schemes 
+description: An introductory code base designed to teach the hybridization of non-dissipative central schemes and shock capturing schemes 
 img: assets/img/cfd_images/hybrid_sensor_snapshot.png
 importance: 2
 category: Fun

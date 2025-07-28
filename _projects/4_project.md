@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamics of a Shock Train in a Low Aspect Ratio Duct 
-description: another without an image
+description: An examination of three dimensional unsteadiness in a ducted shock train interaction
 img: assets/img/cfd_images/skinny_AR_overview_PNG.png
 importance: 1 
 category: Work
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/cfd_images/skinny_AR_overview_PNG.png
     ---
 
 <div class="row">
@@ -36,11 +36,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/cfd_images/skinny_AR_overview_PNG.png" title="shock train duct" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A shock train interaction occurring in a low aspect ratio rectangular duct
 </div>
 
 You can also put regular text between your rows of images.
