@@ -23,7 +23,7 @@ This code base presents a hybrid finite difference approach to solving Burgers' 
     </div>
 </div>
 <div class="caption">
-    A schematic description of the proposed modal analysis method. Shown are the steps needed to remove the translational invariance associated with the scramjet unstart problem and to subsequently analyze the oscillatory dynamics of the flow.
+    Two numerical solutions to the Burgers equation. On the left is a solution that uses the hybrid finite difference approach, with nodes treated using shock capturing being marked in red. On the right is a solution that uses only a central differencing scheme. Note that when shock capturing is not used, the simulation diverges and a wholly incorrect answer is given by the code. When shock capturing is used, the discontinuity in the solution is properly simulated and numerical stability is preserved.  
 </div>
 
 
