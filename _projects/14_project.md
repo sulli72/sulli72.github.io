@@ -7,6 +7,8 @@ importance: 2
 category: Fun
 ---
 
+[CODE REPOSITORY LINK](https://github.com/sulli72/HYBRID_BURGERS)
+
 This project focuses on the implementation of a hybrid finite difference scheme for hyperbolic systems.
 In many simulations, the system being considered has both regions of smooth solution and regions of discontinuous solution.
 A prime example of this is the case of a shock wave interacting with turbulence, where near the shock gradients are large and (infinitely) steep and away from the shock the flow varies smoothly in space.
