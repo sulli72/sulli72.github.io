@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Orr-Sommerfeld Discretizations with Finite Differences
-description: A sample hydrodynamic stability code base for introductions to the Orr-Sommerfeld operator  
-img: assets/img/cfd_images/ORR_SOMMERFELD_SPECTRUM.png
+title: Transient Growth Analysis using Finite Differences
+description: An introductory finite difference approach to transient analysis in hydrodynamic stability theory  
+img: assets/img/cfd_images/ENERGY_GROWTH_CURVE.png
 importance: 2
 category: Fun
 ---
