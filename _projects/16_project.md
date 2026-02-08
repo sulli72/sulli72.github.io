@@ -43,7 +43,8 @@ This project focuses on the analysis of transient growth for linear disturbances
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-md-6 col-sm-8 mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="/assets/img/cfd_images/ENERGY_GROWTH_CURVE.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
