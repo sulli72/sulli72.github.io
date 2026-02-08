@@ -23,12 +23,13 @@ This project focuses on the analysis of transient growth for linear disturbances
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm mt-3 mt-md-0"> -->
+    <div class="col-md-6 col-sm-8 mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="/assets/img/cfd_images/3D_PERT_GROWTH.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Gain of disturbance energy over time within plane Poiseuille flow at Re = 1000. Note the initial disturbace is normalized to be unit amplitude, highlighting that transient growth mechanisms can inject huge perturbation energies even in a linearized setting.
+    Gain of disturbance energy over time within plane Poiseuille flow at Re = 1000. Note the initial disturbance is normalized to be unit amplitude, highlighting that transient growth mechanisms can inject huge perturbation energies even in a linearized setting.
 </div>
 
 
@@ -47,6 +48,6 @@ This project focuses on the analysis of transient growth for linear disturbances
     </div>
 </div>
 <div class="caption">
-    Gain of disturbance energy over time within plane Poiseuille flow at Re = 1000. Note the initial disturbace is normalized to be unit amplitude, highlighting that transient growth mechanisms can inject huge perturbation energies even in a linearized setting.
+    Gain of disturbance energy over time within plane Poiseuille flow at Re = 1000. Note the initial disturbance is normalized to be unit amplitude, highlighting that transient growth mechanisms can inject huge perturbation energies even in a linearized setting.
 </div>
 
