@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transient Growth Analysis using Finite Differences
-description: An introductory finite difference approach to transient analysis in hydrodynamic stability theory  
+description: An introductory finite difference approach to transient growth analysis in hydrodynamic stability theory  
 img: assets/img/cfd_images/ENERGY_GROWTH_CURVE.png
 importance: 2
 category: Fun
