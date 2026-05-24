@@ -2,7 +2,7 @@
 layout: page
 title: Effects of Wall Heat Transfer on Shock Train Behaviors
 description: An investigation of how the mean and unsteady physics of shock train interactions are altered in the presence of wall heat transfer.
-img: assets/img/cfd_images/SHOCKTAIN_WALL_TEMP.png
+img: assets/img/cfd_images/SHOCKTRAIN_WALL_TEMP.png
 importance: 3
 category: Work
 ---
